@@ -45,7 +45,7 @@ const App = () => {
           <div className="flex items-center gap-2">
             <Film className="w-8 h-8 text-red-500" />
             <span className="text-2xl font-bold">
-              FUTURE<span className="text-red-500">STUDIO</span>
+              ISO<span className="text-red-500">Media</span>
             </span>
           </div>
           <div className="hidden md:flex items-center gap-8">

@@ -45,7 +45,7 @@ const App = () => {
           <div className="flex items-center gap-2">
             <Film className="w-8 h-8 text-red-500" />
             <span className="text-2xl font-bold">
-              ISO<span className="text-red-500">Media</span>
+              ISO<span className="text-red-500">MEDIA</span>
             </span>
           </div>
           <div className="hidden md:flex items-center gap-8">
@@ -500,7 +500,7 @@ const App = () => {
               <div className="flex items-center gap-2 mb-6">
                 <Film className="w-8 h-8 text-red-500" />
                 <span className="text-2xl font-bold">
-                  FUTURE<span className="text-red-500">STUDIO</span>
+                  ISO<span className="text-red-500">MEDIA</span>
                 </span>
               </div>
               <p className="text-gray-400">
@@ -561,7 +561,7 @@ const App = () => {
           </div>
           <div className="border-t border-white/10 mt-16 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400">
-              &copy; 2024 FutureStudio. All rights reserved.
+              &copy; 2024 ISOMEDIA. All rights reserved.
             </p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <Facebook className="w-6 h-6 hover:text-red-500 cursor-pointer transition" />
